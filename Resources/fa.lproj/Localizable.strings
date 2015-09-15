@@ -1,0 +1,251 @@
+"CHOOSE_AUDIO_TRACK"="انتخاب قطعه صوتی";
+"CHOOSE_SUBTITLE_TRACK"="انتخاب قطعه زیرنویس";
+"OPEN_TRACK_PANEL"="گشودن قطعه انتخابی";
+"CHOOSE_TITLE"="Choose Title";
+"CHOOSE_CHAPTER"="Choose Chapter";
+"MINIMIZE_PLAYBACK_VIEW"="Minimize playback";
+"FULLSCREEN_PLAYBACK"="Play in fullscreen";
+
+"PLAYING_EXTERNALLY_TITLE"="تلویزیون متصل شد";
+"PLAYING_EXTERNALLY_DESC"="این ویدیو در تلویزیون در حال پخش است";
+
+"VFILTER_HUE"="فام";
+"VFILTER_CONTRAST"="کنتراست";
+"VFILTER_BRIGHTNESS"="روشنی";
+"VFILTER_SATURATION"="غلظت";
+"VFILTER_GAMMA"="گاما";
+
+"BUTTON_EQUALIZER"="اکولایزر";
+"PREAMP"="Preamp";
+"DB_FORMAT"="%i dB";
+"CHOOSE_EQUALIZER_PROFILES"="Choose Equalizer Profile";
+
+"PLAYBACK_FAILED"="پخش ناموفق بود";
+"AR_CHANGED"="نسبت تصویر: %@";
+"DEFAULT"="پیش‌فرض";
+"FILL_TO_SCREEN"="برش برای پر کردن صفحه";
+"DEVICE_TOOSLOW_TITLE"="دستگاه بسیار کند";
+"DEVICE_TOOSLOW"="%@ شما به نظر برای پخش \"%@\" خیلی کند است. در هر صورت باز کند؟";
+"PLAYBACK_SPEED"="سرعت پخش";
+"SPU_DELAY"="تاخیر زمانی زیرنویس";
+"AUDIO_DELAY"="تاخیر زمانی صدا";
+"BUTTON_SLEEP_TIMER"="زمان خواب";
+
+"BUTTON_EDIT"="ویرایش";
+"BUTTON_DONE"="تمام";
+"BUTTON_OPEN"="باز کردن";
+"BUTTON_CANCEL"="انصراف";
+"BUTTON_SAVE"="ذخیره";
+"BUTTON_DOWNLOAD"="دانلود";
+"BUTTON_DELETE"="حذف";
+"BUTTON_OK"="تایید";
+"BUTTON_NEXT"="بعدی";
+"BUTTON_CONTRIBUTE"="مشارکت";
+"BUTTON_BACK"="عقب";
+"BUTTON_CONNECT"="اتصال";
+"BUTTON_REPEAT"="تکرار دوباره";
+"BUTTON_RENAME"="تغییر نام";
+"BUTTON_LEARN_MORE"="بیشتر بدانید";
+"BUTTON_LOGOUT"="خارج شدن";
+"PRIVATE_PLAYBACK_TOGGLE"="پخش خصوصی";
+"SCAN_SUBTITLE_TOGGLE"="بررسی سریع زیرنویس ها";
+
+"UPGRADING_LIBRARY"="ارتقای کتابخانه رسانه ای";
+"UNTITLED_SHOW"="نشان دادن بی نام";
+"UNKNOWN"="ناشناخته";
+
+"OPEN_NETWORK"="بازکردن استریم شبکه";
+"NETWORK_TITLE"="جریان شبکه";
+"OPEN_NETWORK_HELP"="برای باز کردن مستقیم استریم، یکی از آدرس های FTP, MMS, RTMP, RTSP, HTTP را وارد کنید.";
+"ABOUT_APP"="درباره VLC برای iOS";
+"OPEN_VLC_MENU"="باز کردن منوی کناری VLC";
+"HTTP_UPLOAD_SERVER_OFF"="سرور غیرفعال";
+"HTTP_UPLOAD_NO_CONNECTIVITY"="نبود اتصال WiFi فعال";
+"OPEN_STREAM_OR_DOWNLOAD"="آیا مایل به دانلودید یا می خواهید URLپخش شود؟";
+"SELECT_RESOURCE_TO_PLAY"="انتخاب منبع برای پخش:";
+"SELECT_RESOURCE_TO_DOWNLOAD"="انتخاب منبع برای دانلود:";
+"SHARED_VLC_IOS_LIBRARY"="VLC را برای کتابخانه iOS اشتراک بگذارید";
+"SAP_STREAMS"="جریانات شبکه (SAP)";
+
+"HTTP_DOWNLOAD_FAILED"="دانلود ناموفق با HTTP code %i";
+"HTTP_FILE_CREATION_FAILED"="ساخته شدن فایل ناموفق بود";
+"HTTP_DOWNLOAD_CANCELLED"="دانلود از سوی کاربر لغو شد";
+
+"DOWNLOAD_FROM_HTTP_HELP"="برای دانلود فایل روی %@ خود، یک آدرس وارد کنید. ";
+"DOWNLOAD_FROM_HTTP"="دانلود‌ها";
+"ERROR_NUMBER"="خطای %i رخ داد";
+"DOWNLOAD_FAILED"="دانلود ناموفق بود";
+"FILE_NOT_SUPPORTED"="فرمت فایل پشتیبانی نشده";
+"FILE_NOT_SUPPORTED_LONG"="فرمت فایل استفاده شده توسط %@ در این نسخه از VLC برای iOS پشتیبانی نشده است.";
+"SCHEME_NOT_SUPPORTED"="رویه نشانی پشتیبانی نمی شود";
+"SCHEME_NOT_SUPPORTED_LONG"="The address scheme (%@) is not supported. Please use an address starting with HTTP, HTTPS or FTP.";
+"LIBRARY_ALL_FILES"="پرونده‌ها";
+"LIBRARY_MUSIC"="آلبوم های موسیقی";
+"LIBRARY_SERIES"="برنامه های تلویزیونی";
+"LIBRARY_TRACKS"="%i قطعه";
+"LIBRARY_SINGLE_TRACK"="%i قطعه";
+"LIBRARY_EPISODES"="%i قسمت، %i خوانده نشده";
+"LIBRARY_SINGLE_EPISODE"="%i قسمت، %i خوانده نشده";
+"LIBRARY_TRACK_N"="قطعه %i";
+"LIBRARY_MINUTES_LEFT"="%@m باقی مانده";
+"RENAME_MEDIA_TO"="نام جدید وارد کنید برای %@";
+
+"FOLDER_EMPTY"="پوشه خالی";
+"FOLDER_EMPTY_LONG"="برای اضافه کردن فایل، روی ویرایش بزنید، فایلی که می خواهید انتخاب کنید، روی دکمه پوشه کلیک کنید و این پوشه را انتخاب کنید";
+"FOLDER_INVALID_TYPE_TITLE"="گونه فایل اشتباه است";
+"FOLDER_INVALID_TYPE_MESSAGE"="تنها می توانید دو فایل را از پوشه برگزینید یا یک فایل را به پوشه موجود اضافه کنید";
+"FOLDER_CHOOSE_NAME_TITLE"="پوشه جدید";
+"FOLDER_CHOOSE_NAME_MESSAGE"="وارد کردن عنوان جدید برای پوشه تان";
+"FOLDER_NAME_PLACEHOLDER"="عنوان پوشه";
+"FOLDER_NAME_DUPLICATE_TITLE"="عنوان وجود دارد";
+"FOLDER_NAME_DUPLICATE_MESSAGE"="لطفا عنوان دیگری انتخاب کنید";
+"SELECT_FOLDER"="انتخاب پوشه";
+
+"SHARING_ACTION_SHEET_TITLE_CHOOSE_FILE"="انتخاب فایل برای گشودن:";
+"SHARING_ACTIVITY_OPEN_IN_TITLE"="باز کن در...";
+"SHARING_ERROR_NO_FILES"="نمی توان فایلی برای اشتراک پیدا کرد";
+"SHARING_ERROR_NO_APPLICATIONS"="نمی توان اپایکیشنی برای باز کردن این گونه فایل ها یافت";
+"SHARING_SUCCESS_CAMERA_ROLL"="فایل با موفقیت در عکس های دوربین ذخیره شد";
+
+"SECTION_HEADER_LIBRARY"="کتابخانه رسانه ای";
+"SECTION_HEADER_NETWORK"="شبکه";
+
+"LOCAL_NETWORK"="شبکه‌ی محلی";
+"CONNECT_TO_SERVER"="اتصال به سرور";
+"ENTER_SERVER_ADDRESS_HELP"="نام و یا آدرس IP سروری که میخواهید به آن متصل شوید را وارد نمایید.";
+"ENTER_SERVER_CREDS_HELP"="اگر توسط سرور نام کاربری و رمز عبور خواسته شده است، آنرا وارد نمایید.";
+"USER_LABEL"="کاربر";
+"PASSWORD_LABEL"="گذرواژه";
+
+"LOCAL_SERVER_REFRESH"="دوباره";
+"LOCAL_SERVER_LAST_UPDATE"="آخرین تاریخ آپدیت شده در %@";
+"LOCAL_SERVER_CONNECTION_FAILED_TITLE"="اتصال به سرور ناموفق";
+"LOCAL_SERVER_CONNECTION_FAILED_MESSAGE"="Please check your server address and credentials";
+
+"CLOUD_SERVICES"="Cloud Services";
+"LOGIN"="ورود";
+"LOGGED_IN"="وارد شده";
+
+"DROPBOX_DOWNLOAD"="دانلود فایل؟";
+"DROPBOX_DL_LONG"="آیا مایلید \"%@\" را در %@ خود دانلود کنید؟";
+"DROPBOX_LOGIN"="ورود";
+
+"GDRIVE_ERROR_FETCHING_FILES"="Error while fetching files";
+"GDRIVE_DOWNLOAD_SUCCESSFUL"="فایل با موفقیت دانلود شد";
+"GDRIVE_DOWNLOAD_SUCCESSFUL_TITLE"="موفق";
+"GDRIVE_ERROR_DOWNLOADING_FILE"="An error occured while downloading";
+"GDRIVE_ERROR_DOWNLOADING_FILE_TITLE"="خطا";
+
+"DISK_FULL"="Storage limit reached";
+"DISK_FULL_FORMAT"="%@ cannot be stored on your %@, because you don't have enough free space left.";
+
+"NUM_OF_FILES"="%i فایل";
+"ONE_FILE"="۱ پرونده";
+"NO_FILES"="نبود فایل قابل پشتیبانی";
+"DOWNLOADING"="در حال دانلود...";
+"REMAINING_TIME"= "Remaining time: %@";
+"ENTER_PASSCODE"="رمز را وارد کنید";
+"REENTER_PASSCODE"="رمز را دوباره وارد کنید";
+"PASSCODE_SET"="تنظیم رمز";
+"PASSCODE_CHANGE"="تعویض رمز";
+"PASSCODE_ENTER_OLD"="رمز قدیمی خود را وارد کنید";
+"PASSCODE_ENTER_NEW"="رمز جدید خود را وارد کنید";
+"PASSCODE_REENTER_NEW"="رمز جدید خود را دوباره وارد کنید";
+"PASSCODES_DID_NOT_MATCH"="رمزها یکی نبود. دوباره تلاش کنید.";
+"PASSCODE_FAILED_1"="1 تلاش ناموفق ورود رمز";
+"PASSCODE_FAILED_FORMAT"="%d تلاش ناموفق ورود رمز";
+
+"Settings"="تنظیمات"; // plain text key to keep compatibility with InAppSettingsKit's upstream
+
+"EMPTY_LIBRARY"="خالی کردن کتابخانه رسانه ای";
+"EMPTY_LIBRARY_LONG"="For playback, you can stream media from a server on your local network, from the cloud or synchronize media to your device using iTunes, WiFi Upload or Cloud services.";
+
+"PLAYBACK_SCRUB_HELP"="برای تنظیم میزان تغییر کشش، انگشت خود را به پایین بکشید.";
+"PLAYBACK_SCRUB_HIGH"="سایش سرعت بالا";
+"PLAYBACK_SCRUB_HALF"="سایش نصف سرعت";
+"PLAYBACK_SCRUB_QUARTER"="سایش ربع سرعت";
+"PLAYBACK_SCRUB_FINE"="سایش دقیق";
+"PLAYBACK_POSITION"="موقعیت پخش";
+"VIDEO_FILTER"="صافی‌های ویدئو";
+"VIDEO_FILTER_RESET_BUTTON"="تنظیم مجدد فیلترهای ویدیو";
+"VIDEO_ASPECT_RATIO_BUTTON"="تغییر نسبت تصویر ویدیو";
+"PLAY_PAUSE_BUTTON"="اجرا یا توقف پخش ";
+"BWD_BUTTON"="پرش به عقب";
+"FWD_BUTTON"="پرش به جلو";
+"PLAY_BUTTON"="Play";
+"PAUSE_BUTTON"="Pause";
+
+"VERSION_FORMAT"="نسخه: %@";
+"BASED_ON_FORMAT"="بر پایه:</br>%@";
+
+"NEW"="تازه";
+
+"BUG_REPORT_TITLE"="گزارش اشکال";
+"BUG_REPORT_MESSAGE"="آیا مایل هستید تا یک گزارش اشکال بنویسید؟";
+"BUG_REPORT_BUTTON"="بازکردن Safari";
+
+"VO_VIDEOPLAYER_TITLE"="ویدیو پلیر";
+"VO_VIDEOPLAYER_DOUBLETAP"="دوبار ضربه برای آشکار یا پنهان کردن کنترل های پخش";
+
+"FIRST_STEPS_WELCOME"="خوش آمدید";
+"FIRST_STEPS_WELCOME_DETAIL"="First steps to Sync and Play Your Media.";
+"FIRST_STEPS_ITUNES"="iTunes File Sync";
+"FIRST_STEPS_ITUNES_DETAILS"="Connect your %@ to your Mac or PC using the cable.\nOpen iTunes.\nSelect your %@.\nSwitch to the \"Apps\" tab, scroll down and look for VLC.\nTransfer your files.";
+"FIRST_STEPS_WIFI_CONNECT_DETAILS"="Connect your %@ to the same network as your Mac or PC.";
+"FIRST_STEPS_WIFI_UPLOAD_DETAILS"="Switch the toggle in the sidebar, enter the URL to the web browser and upload your files.";
+"FIRST_STEPS_CLOUDS"="ابرها";
+"FIRST_STEPS_CLOUD_UPLOAD_DETAILS"="Upload your media to Google Drive or Dropbox.";
+"FIRST_STEPS_CLOUD_ACCESS_DETAILS"="Open the sidebar to select your Cloud provider and access your media for downloading or streaming.";
+"FIRST_STEPS_PLAYBACK"="بازپخش";
+"FIRST_STEPS_FLOSS"="VLC برای iOS رایگان است و نرم افزار متن باز از سوی داوطلبان توسعه می یابد.. امیدواریم دوستش داشته باشید.";
+
+"FIRST_STEPS_TIME"="زمان";
+"FIRST_STEPS_ASPECT"="نسبت";
+"FIRST_STEPS_SPEED"="سرعت";
+"FIRST_STEPS_REPEAT"="تکرار";
+"FIRST_STEPS_SUBTITLES"="فایل های زیرنویس";
+"FIRST_STEPS_AUDIO"="فایل های صوتی";
+"FIRST_STEPS_POSITION"="موقعیت";
+
+"PLEX_WATCHED"="نشانه به عنوان دیده شده";
+"PLEX_UNWATCHED"="نشانه به عنوان دیده نشده";
+"PLEX_ERROR_MARK"="خطا در نشان دار کردن رسانه";
+"PLEX_CONNECT_TO_SERVER"="Connect to Plex Media Server";
+"PLEX_CHECK_ACCOUNT"="Check your Plex account in settings";
+"PLEX_ERROR_ACCOUNT"="Plex login Error";
+
+"UNAUTHORIZED"="Unauthorized";
+
+"SERVER"="Server";
+"SERVER_PORT"="Port";
+"BOOKMARK"="Bookmark";
+"INVALID_IP_PORT"="Please enter a valid IP address and port";
+
+"WEBINTF_TITLE"="انتشار از طریق WiFi";
+"WEBINTF_DROPFILES"="Drop Files";
+"WEBINTF_DROPFILES_LONG"="Drop files in the window to add them to your %@.<br>Or click on the \"+\" button to use the file picker dialog.";
+"WEBINTF_DOWNLOADFILES"="دانلود فایل ها";
+"WEBINTF_DOWNLOADFILES_LONG"="کافیست برای دانلود، بر روی فایلی که می خواهید کلیک کنید در %@";
+
+"CLOUD_DRIVES"="Other Cloud Drives";
+
+"NOW_PLAYING"="Now Playing";
+"PLAY_NOW"="Play Now";
+"PLAYING"="Playing";
+"PAUSED"="Paused";
+"DETAIL"="Detail";
+
+"VOLUME"="Volume";
+"DURATION"="Duration";
+"TITLE"="Title";
+
+// accessibility labels for the playlist
+"OBJECT_TYPE_SHOW"="Show";
+"OBJECT_TYPE_SHOW_EPISODE"="Show episode";
+"OBJECT_TYPE_LABEL"="Folder";
+"OBJECT_TYPE_ALBUM"="Album";
+"OBJECT_TYPE_ALBUM_TRACK"="Album track";
+"OBJECT_TYPE_FILE"="File";
+"OBJECT_TYPE_FILE_AUDIO"="Audio file";
+
+"LONGPRESS_TO_STOP"="Long-press to stop playback.";

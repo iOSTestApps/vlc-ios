@@ -1,0 +1,251 @@
+"CHOOSE_AUDIO_TRACK"="Zvolte stopu zvuku";
+"CHOOSE_SUBTITLE_TRACK"="Zvolte stopu videa";
+"OPEN_TRACK_PANEL"="Open track selection";
+"CHOOSE_TITLE"="Choose Title";
+"CHOOSE_CHAPTER"="Choose Chapter";
+"MINIMIZE_PLAYBACK_VIEW"="Minimize playback";
+"FULLSCREEN_PLAYBACK"="Play in fullscreen";
+
+"PLAYING_EXTERNALLY_TITLE"="Televize připojena";
+"PLAYING_EXTERNALLY_DESC"="Video se přehrává na televizi";
+
+"VFILTER_HUE"="Odstín";
+"VFILTER_CONTRAST"="Kontrast";
+"VFILTER_BRIGHTNESS"="Jas";
+"VFILTER_SATURATION"="Saturace";
+"VFILTER_GAMMA"="Gama";
+
+"BUTTON_EQUALIZER"="Ekvalizér";
+"PREAMP"="Preamp";
+"DB_FORMAT"="%i dB";
+"CHOOSE_EQUALIZER_PROFILES"="Choose Equalizer Profile";
+
+"PLAYBACK_FAILED"="Přehrávání selhalo";
+"AR_CHANGED"="Poměr stran: %@";
+"DEFAULT"="Výchozí";
+"FILL_TO_SCREEN"="Oříznout a vyplnit obrazovku";
+"DEVICE_TOOSLOW_TITLE"="Zařízení je příliš pomalé";
+"DEVICE_TOOSLOW"="Váš %@ je pravděpodobně příliš pomalý pro přehrání \"%@\". Přejete si přesto otevřít?";
+"PLAYBACK_SPEED"="Rychlost přehrávání";
+"SPU_DELAY"="Zpoždění titulků";
+"AUDIO_DELAY"="Zpoždění zvuku";
+"BUTTON_SLEEP_TIMER"="Sleep Timer";
+
+"BUTTON_EDIT"="Upravit";
+"BUTTON_DONE"="Dokončeno";
+"BUTTON_OPEN"="Otevřít";
+"BUTTON_CANCEL"="Zrušit";
+"BUTTON_SAVE"="Uložit";
+"BUTTON_DOWNLOAD"="Stáhnout";
+"BUTTON_DELETE"="Smazat";
+"BUTTON_OK"="OK";
+"BUTTON_NEXT"="Následující";
+"BUTTON_CONTRIBUTE"="Přispívejte";
+"BUTTON_BACK"="Zpět";
+"BUTTON_CONNECT"="Připojit";
+"BUTTON_REPEAT"="Opakovat";
+"BUTTON_RENAME"="Přejmenovat";
+"BUTTON_LEARN_MORE"="Zjistit více";
+"BUTTON_LOGOUT"="Logout";
+"PRIVATE_PLAYBACK_TOGGLE"="Privátní přehrávání";
+"SCAN_SUBTITLE_TOGGLE"="Scan for Subtitles (http-only)";
+
+"UPGRADING_LIBRARY"="Aktualizuji knihovnu médií";
+"UNTITLED_SHOW"="Untitled Show";
+"UNKNOWN"="Unknown";
+
+"OPEN_NETWORK"="Otevřít síťový proud";
+"NETWORK_TITLE"="Síťový proud";
+"OPEN_NETWORK_HELP"="Pro přímé přehrání proudu zadejte libovolnou adresu HTTP, RTSP, RTMP, MMS, FTP, nebo UDP/RTP.";
+"ABOUT_APP"="O aplikaci VLC pro iOS";
+"OPEN_VLC_MENU"="Otevřít postranní nabídku VLC";
+"HTTP_UPLOAD_SERVER_OFF"="Neaktivní server";
+"HTTP_UPLOAD_NO_CONNECTIVITY"="Žádné aktivní spojení WiFi";
+"OPEN_STREAM_OR_DOWNLOAD"="Přejete si stáhnout, nebo přehrát tuto URL?";
+"SELECT_RESOURCE_TO_PLAY"="Select a resource to play:";
+"SELECT_RESOURCE_TO_DOWNLOAD"="Select a resource to download:";
+"SHARED_VLC_IOS_LIBRARY"="Shared VLC for iOS Library";
+"SAP_STREAMS"="Network Streams (SAP)";
+
+"HTTP_DOWNLOAD_FAILED"="Stahování selhalo, HTTP kód %i";
+"HTTP_FILE_CREATION_FAILED"="Vytvoření souboru selhalo";
+"HTTP_DOWNLOAD_CANCELLED"="Stahování bylo zrušeno užvatelem";
+
+"DOWNLOAD_FROM_HTTP_HELP"="Zadejte adresu ke stažení souboru na váš %@.";
+"DOWNLOAD_FROM_HTTP"="Stahování";
+"ERROR_NUMBER"="Nastala chyba %i";
+"DOWNLOAD_FAILED"="Stahování selhalo";
+"FILE_NOT_SUPPORTED"="Formát souboru není podporován";
+"FILE_NOT_SUPPORTED_LONG"="Formát souboru použitý v %@ není podporován touto verzí VLC pro iOS.";
+"SCHEME_NOT_SUPPORTED"="Formát adresy není podporován";
+"SCHEME_NOT_SUPPORTED_LONG"="Formát adresy (%@) není podporován. Použijte prosím adresu začínající s HTTP, HTTPS, nebo FTP.";
+"LIBRARY_ALL_FILES"="Všechny soubory";
+"LIBRARY_MUSIC"="Hudební alba";
+"LIBRARY_SERIES"="TV pořady";
+"LIBRARY_TRACKS"="%i stop";
+"LIBRARY_SINGLE_TRACK"="%i stopa";
+"LIBRARY_EPISODES"="%i epizod, %i nenačteno";
+"LIBRARY_SINGLE_EPISODE"="%i epizod, %i nenačteno";
+"LIBRARY_TRACK_N"="Stopa %i";
+"LIBRARY_MINUTES_LEFT"="zbývá %@m";
+"RENAME_MEDIA_TO"="Zadejte nový název pro %@";
+
+"FOLDER_EMPTY"="Prázdná složka";
+"FOLDER_EMPTY_LONG"="To add files tap Edit, choose the files you want, click the folder-button and select this folder.";
+"FOLDER_INVALID_TYPE_TITLE"="Neplatné typy souborů";
+"FOLDER_INVALID_TYPE_MESSAGE"="You can only take two files to form a folder or add a single file to an existing folder.";
+"FOLDER_CHOOSE_NAME_TITLE"="Nová složka";
+"FOLDER_CHOOSE_NAME_MESSAGE"="Zadejte název pro svou složku";
+"FOLDER_NAME_PLACEHOLDER"="Název složky";
+"FOLDER_NAME_DUPLICATE_TITLE"="Složka existuje";
+"FOLDER_NAME_DUPLICATE_MESSAGE"="Prosím vyberte jiný název";
+"SELECT_FOLDER"="Vyberte složku";
+
+"SHARING_ACTION_SHEET_TITLE_CHOOSE_FILE"="Choose a file to open:";
+"SHARING_ACTIVITY_OPEN_IN_TITLE"="Otevřít v...";
+"SHARING_ERROR_NO_FILES"="Could not find any files to share";
+"SHARING_ERROR_NO_APPLICATIONS"="Could not find any applications to open this type of file";
+"SHARING_SUCCESS_CAMERA_ROLL"="File was successfully saved to the Camera Roll";
+
+"SECTION_HEADER_LIBRARY"="Knihovna médií";
+"SECTION_HEADER_NETWORK"="Síť";
+
+"LOCAL_NETWORK"="Místní síť";
+"CONNECT_TO_SERVER"="Připojit se k severu";
+"ENTER_SERVER_ADDRESS_HELP"="Zadejte adresu IP, nebo název serveru, ke kterému si přejete se připojit.";
+"ENTER_SERVER_CREDS_HELP"="Pokud je vyžadováno serverem, zadejte jméno a heslo.";
+"USER_LABEL"="Uživatel";
+"PASSWORD_LABEL"="Heslo";
+
+"LOCAL_SERVER_REFRESH"="Obnovit";
+"LOCAL_SERVER_LAST_UPDATE"="Poslední aktualizace proběhla %@";
+"LOCAL_SERVER_CONNECTION_FAILED_TITLE"="SPOJENÍ SE SERVEREM SELHALO";
+"LOCAL_SERVER_CONNECTION_FAILED_MESSAGE"="Zkontrolujte prosím svoji adresu serveru a přihlašovací údaje";
+
+"CLOUD_SERVICES"="Cloud Services";
+"LOGIN"="Přihlášení";
+"LOGGED_IN"="Logged in";
+
+"DROPBOX_DOWNLOAD"="Stáhnout soubor?";
+"DROPBOX_DL_LONG"="Přejete si stáhnout \"%@\" do vašeho %@?";
+"DROPBOX_LOGIN"="Přihlášení";
+
+"GDRIVE_ERROR_FETCHING_FILES"="Chyba při stahování souborů";
+"GDRIVE_DOWNLOAD_SUCCESSFUL"="Soubor byl úspěšně stažen";
+"GDRIVE_DOWNLOAD_SUCCESSFUL_TITLE"="ÚSPĚCH";
+"GDRIVE_ERROR_DOWNLOADING_FILE"="Během stahování nastala chyba";
+"GDRIVE_ERROR_DOWNLOADING_FILE_TITLE"="CHYBA";
+
+"DISK_FULL"="Storage limit reached";
+"DISK_FULL_FORMAT"="%@ cannot be stored on your %@, because you don't have enough free space left.";
+
+"NUM_OF_FILES"="%i souborů";
+"ONE_FILE"="1 soubor";
+"NO_FILES"="Žádné podporované soubory";
+"DOWNLOADING"="Stahuji...";
+"REMAINING_TIME"= "Zbývající čas: %@";
+"ENTER_PASSCODE"="Zadejte heslo";
+"REENTER_PASSCODE"="Zopakujte heslo";
+"PASSCODE_SET"="Nastavit heslo";
+"PASSCODE_CHANGE"="Změnit heslo";
+"PASSCODE_ENTER_OLD"="Zadejte své staré heslo";
+"PASSCODE_ENTER_NEW"="Zadejte své nové heslo";
+"PASSCODE_REENTER_NEW"="Zopakujte své nové heslo";
+"PASSCODES_DID_NOT_MATCH"="Heslo se neshoduje. Zkuste to znovu.";
+"PASSCODE_FAILED_1"="1 chybný pokus o přihlášení";
+"PASSCODE_FAILED_FORMAT"="%d chybných pokusů o přihlášení";
+
+"Settings"="Nastavení"; // plain text key to keep compatibility with InAppSettingsKit's upstream
+
+"EMPTY_LIBRARY"="Prázdná knihovna médií";
+"EMPTY_LIBRARY_LONG"="For playback, you can stream media from a server on your local network, from the cloud or synchronize media to your device using iTunes, WiFi Upload or Cloud services.";
+
+"PLAYBACK_SCRUB_HELP"="Slide your finger down to adjust the scrubbing rate.";
+"PLAYBACK_SCRUB_HIGH"="High-Speed Scrubbing";
+"PLAYBACK_SCRUB_HALF"="Half-Speed Scrubbing";
+"PLAYBACK_SCRUB_QUARTER"="Quarter-Speed Scrubbing";
+"PLAYBACK_SCRUB_FINE"="Fine Scrubbing";
+"PLAYBACK_POSITION"="Místo přehrávání";
+"VIDEO_FILTER"="Filtry videa";
+"VIDEO_FILTER_RESET_BUTTON"="Obnovit nastavení filtrů videa";
+"VIDEO_ASPECT_RATIO_BUTTON"="Přepnout poměr stran videa";
+"PLAY_PAUSE_BUTTON"="Přehrávat či pozastavit současnou položku";
+"BWD_BUTTON"="Zpět";
+"FWD_BUTTON"="Další";
+"PLAY_BUTTON"="Play";
+"PAUSE_BUTTON"="Pause";
+
+"VERSION_FORMAT"="Verze: %@";
+"BASED_ON_FORMAT"="Založeno na:<br />%@";
+
+"NEW"="NOVÉ";
+
+"BUG_REPORT_TITLE"="Nahlásit chybu";
+"BUG_REPORT_MESSAGE"="Přejete si vytvořit chybové hlášení?";
+"BUG_REPORT_BUTTON"="Otevřít Safari";
+
+"VO_VIDEOPLAYER_TITLE"="Přehrávač videa";
+"VO_VIDEOPLAYER_DOUBLETAP"="Dvakrát klepněte pro zobrazení, nebo skrytí, prvků ovládání přehrávání";
+
+"FIRST_STEPS_WELCOME"="Vítejte";
+"FIRST_STEPS_WELCOME_DETAIL"="First steps to Sync and Play Your Media.";
+"FIRST_STEPS_ITUNES"="Synchronizace souborů iTunes";
+"FIRST_STEPS_ITUNES_DETAILS"="Connect your %@ to your Mac or PC using the cable.\nOpen iTunes.\nSelect your %@.\nSwitch to the \"Apps\" tab, scroll down and look for VLC.\nTransfer your files.";
+"FIRST_STEPS_WIFI_CONNECT_DETAILS"="Connect your %@ to the same network as your Mac or PC.";
+"FIRST_STEPS_WIFI_UPLOAD_DETAILS"="Switch the toggle in the sidebar, enter the URL to the web browser and upload your files.";
+"FIRST_STEPS_CLOUDS"="Internetová úložiště";
+"FIRST_STEPS_CLOUD_UPLOAD_DETAILS"="Nahrajte svá média na Google drive, nebo Dropbox";
+"FIRST_STEPS_CLOUD_ACCESS_DETAILS"="Open the sidebar to select your Cloud provider and access your media for downloading or streaming.";
+"FIRST_STEPS_PLAYBACK"="Přehrávání";
+"FIRST_STEPS_FLOSS"="VLC pro iOS je svobodný software s otevřeným kódem vyvíjený dobrovolníky.\nDoufáme, že se vám bude líbit.";
+
+"FIRST_STEPS_TIME"="Čas";
+"FIRST_STEPS_ASPECT"="Poměr stran";
+"FIRST_STEPS_SPEED"="Rychlost";
+"FIRST_STEPS_REPEAT"="Opakovat";
+"FIRST_STEPS_SUBTITLES"="Stopy titulků";
+"FIRST_STEPS_AUDIO"="Zvukové stopy";
+"FIRST_STEPS_POSITION"="Pozice";
+
+"PLEX_WATCHED"="Označit jako shlédnuté";
+"PLEX_UNWATCHED"="Označit jako neshlédnuté";
+"PLEX_ERROR_MARK"="Error marking media";
+"PLEX_CONNECT_TO_SERVER"="Connect to Plex Media Server";
+"PLEX_CHECK_ACCOUNT"="Check your Plex account in settings";
+"PLEX_ERROR_ACCOUNT"="Plex login Error";
+
+"UNAUTHORIZED"="Unauthorized";
+
+"SERVER"="Server";
+"SERVER_PORT"="Port";
+"BOOKMARK"="Záložka";
+"INVALID_IP_PORT"="Please enter a valid IP address and port";
+
+"WEBINTF_TITLE"="Sharing via WiFi";
+"WEBINTF_DROPFILES"="Drop Files";
+"WEBINTF_DROPFILES_LONG"="Drop files in the window to add them to your %@.<br>Or click on the \"+\" button to use the file picker dialog.";
+"WEBINTF_DOWNLOADFILES"="Stažené soubory";
+"WEBINTF_DOWNLOADFILES_LONG"="Just click the file you want to download from your %@.";
+
+"CLOUD_DRIVES"="Other Cloud Drives";
+
+"NOW_PLAYING"="Now Playing";
+"PLAY_NOW"="Play Now";
+"PLAYING"="Playing";
+"PAUSED"="Pozastaveno";
+"DETAIL"="Podrobnosti";
+
+"VOLUME"="Volume";
+"DURATION"="Duration";
+"TITLE"="Title";
+
+// accessibility labels for the playlist
+"OBJECT_TYPE_SHOW"="Show";
+"OBJECT_TYPE_SHOW_EPISODE"="Show episode";
+"OBJECT_TYPE_LABEL"="Folder";
+"OBJECT_TYPE_ALBUM"="Album";
+"OBJECT_TYPE_ALBUM_TRACK"="Album track";
+"OBJECT_TYPE_FILE"="File";
+"OBJECT_TYPE_FILE_AUDIO"="Audio file";
+
+"LONGPRESS_TO_STOP"="Long-press to stop playback.";

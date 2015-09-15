@@ -1,0 +1,251 @@
+"CHOOSE_AUDIO_TRACK"="Izvēlieties audio skaņdarbu";
+"CHOOSE_SUBTITLE_TRACK"="Izvēlies skaņdarba subtitru";
+"OPEN_TRACK_PANEL"="Open track selection";
+"CHOOSE_TITLE"="Choose Title";
+"CHOOSE_CHAPTER"="Choose Chapter";
+"MINIMIZE_PLAYBACK_VIEW"="Minimize playback";
+"FULLSCREEN_PLAYBACK"="Play in fullscreen";
+
+"PLAYING_EXTERNALLY_TITLE"="TV ir pieslēgta";
+"PLAYING_EXTERNALLY_DESC"="Ši video tiek lasīta uz TV";
+
+"VFILTER_HUE"="Nokrāsa";
+"VFILTER_CONTRAST"="Kontrasts";
+"VFILTER_BRIGHTNESS"="Spilgtums";
+"VFILTER_SATURATION"="Piesātināšana";
+"VFILTER_GAMMA"="Gamma";
+
+"BUTTON_EQUALIZER"="Equalizer";
+"PREAMP"="Preamp";
+"DB_FORMAT"="%i dB";
+"CHOOSE_EQUALIZER_PROFILES"="Choose Equalizer Profile";
+
+"PLAYBACK_FAILED"="Atskaņošana neizdevās";
+"AR_CHANGED"="Skata koeficients: %@";
+"DEFAULT"="Pēc noklusējuma";
+"FILL_TO_SCREEN"="Apgriezt, lai aizpildītu ekrānu.";
+"DEVICE_TOOSLOW_TITLE"="Ierīce ir pārāk lēna";
+"DEVICE_TOOSLOW"="Tava %@ ir iespējams pārāk lēna, lai spēlētu \"%@\". Atvērt tik un tā?";
+"PLAYBACK_SPEED"="Atskaņošanas ātrums";
+"SPU_DELAY"="Subtitles delay";
+"AUDIO_DELAY"="Audio delay";
+"BUTTON_SLEEP_TIMER"="Sleep Timer";
+
+"BUTTON_EDIT"="Rediģēt";
+"BUTTON_DONE"="Paveikts";
+"BUTTON_OPEN"="Atvērt";
+"BUTTON_CANCEL"="Atcelt";
+"BUTTON_SAVE"="Saglabāt";
+"BUTTON_DOWNLOAD"="Lejupielādēt";
+"BUTTON_DELETE"="Dzēst";
+"BUTTON_OK"="OK";
+"BUTTON_NEXT"="Nākamais";
+"BUTTON_CONTRIBUTE"="Ziedot ";
+"BUTTON_BACK"="Atpakaļ";
+"BUTTON_CONNECT"="Savienot";
+"BUTTON_REPEAT"="Atkārtot";
+"BUTTON_RENAME"="Pārdēvēt";
+"BUTTON_LEARN_MORE"="Uzzināt vairāk";
+"BUTTON_LOGOUT"="Logout";
+"PRIVATE_PLAYBACK_TOGGLE"="Privātā atskaņošana";
+"SCAN_SUBTITLE_TOGGLE"="Scan for Subtitles (http-only)";
+
+"UPGRADING_LIBRARY"="Modernizēt Mēdiju Bibliotēku";
+"UNTITLED_SHOW"="Nenosaukta demonstrēšana";
+"UNKNOWN"="Unknown";
+
+"OPEN_NETWORK"="Atvērt tīkla plūsmu";
+"NETWORK_TITLE"="Tīkla plūsma";
+"OPEN_NETWORK_HELP"="Ievadiet jebkuru HTTP, RTSP, RTMP, MMS, FTP vai UDP / RTP adresi, lai atvērtu plūsmu tieši.";
+"ABOUT_APP"="Par VLC uz iOS";
+"OPEN_VLC_MENU"="Atvērt VLC sānjoslas izvēlni";
+"HTTP_UPLOAD_SERVER_OFF"="Neaktīvs serveris";
+"HTTP_UPLOAD_NO_CONNECTIVITY"="Nav aktīvu sakaru ar WiFi ";
+"OPEN_STREAM_OR_DOWNLOAD"="Would you like to download or play this URL?";
+"SELECT_RESOURCE_TO_PLAY"="Select a resource to play:";
+"SELECT_RESOURCE_TO_DOWNLOAD"="Select a resource to download:";
+"SHARED_VLC_IOS_LIBRARY"="Shared VLC for iOS Library";
+"SAP_STREAMS"="Network Streams (SAP)";
+
+"HTTP_DOWNLOAD_FAILED"="Lejuplāde neizdevās ar HTTP kodu %i";
+"HTTP_FILE_CREATION_FAILED"="Faila izveidošana neizdevās";
+"HTTP_DOWNLOAD_CANCELLED"="Lejuplādi atcēlta lietotājs";
+
+"DOWNLOAD_FROM_HTTP_HELP"="Ievadiet adresi, lai lejupielādētu failu uz jūsu %@.";
+"DOWNLOAD_FROM_HTTP"="Lejupielādes";
+"ERROR_NUMBER"="%i Kļūda notika";
+"DOWNLOAD_FAILED"="Lejuplādēt neizdevās";
+"FILE_NOT_SUPPORTED"="Faila formāts nav atbalstīts";
+"FILE_NOT_SUPPORTED_LONG"="Faila formāts, kurš izmanto %@ neatbalsta šo VLC versiju uz iOS.";
+"SCHEME_NOT_SUPPORTED"="Adreses shēma nav atbalstīta";
+"SCHEME_NOT_SUPPORTED_LONG"="Adrese shēma (%@) nav atbalstīta. Lūdzu, izmantojiet adresi, sākoties ar HTTP, HTTPS un FTP.";
+"LIBRARY_ALL_FILES"="Visas Datnes";
+"LIBRARY_MUSIC"="Mūzikas albumi";
+"LIBRARY_SERIES"="TV Šovi";
+"LIBRARY_TRACKS"="%i Dziesmas";
+"LIBRARY_SINGLE_TRACK"="%i Dziesma";
+"LIBRARY_EPISODES"="%i Epizodes, %i nelasītas";
+"LIBRARY_SINGLE_EPISODE"="%i epizode, %i nelasīta";
+"LIBRARY_TRACK_N"="Dziesmu %i";
+"LIBRARY_MINUTES_LEFT"="%@m pa kreisi";
+"RENAME_MEDIA_TO"="Ievadiet jaunu nosaukumu %@";
+
+"FOLDER_EMPTY"="Tukša mape";
+"FOLDER_EMPTY_LONG"="Lai pievienotu failu pieskarieties Rediģēt, izvēlieties failus, kurus jūs vēlaties, noklikšķiniet uz mapes pogu un izvēlieties šo mapi.";
+"FOLDER_INVALID_TYPE_TITLE"="Nederīgu failu tipi";
+"FOLDER_INVALID_TYPE_MESSAGE"="Jūs varat ņemt tikai divus failus, lai izveidotu mapi vai pievienot vienu failu uz esošu mapi.";
+"FOLDER_CHOOSE_NAME_TITLE"="Jauna mape";
+"FOLDER_CHOOSE_NAME_MESSAGE"="Ievadiet nosaukumu priekš jūsu mapes";
+"FOLDER_NAME_PLACEHOLDER"="Mapes virsraksts";
+"FOLDER_NAME_DUPLICATE_TITLE"="Nosaukums jau pastāv";
+"FOLDER_NAME_DUPLICATE_MESSAGE"="Lūdzu, izvēlieties citu nosaukumu";
+"SELECT_FOLDER"="Izvēlieties mapi";
+
+"SHARING_ACTION_SHEET_TITLE_CHOOSE_FILE"="Choose a file to open:";
+"SHARING_ACTIVITY_OPEN_IN_TITLE"="Open In...";
+"SHARING_ERROR_NO_FILES"="Could not find any files to share";
+"SHARING_ERROR_NO_APPLICATIONS"="Could not find any applications to open this type of file";
+"SHARING_SUCCESS_CAMERA_ROLL"="File was successfully saved to the Camera Roll";
+
+"SECTION_HEADER_LIBRARY"="Mēdiju bibliotēka";
+"SECTION_HEADER_NETWORK"="Tīkls";
+
+"LOCAL_NETWORK"="Vietējais tīkls";
+"CONNECT_TO_SERVER"="Pievienojies serverim";
+"ENTER_SERVER_ADDRESS_HELP"="Ievadiet IP vai servera nosaukumu, ar kuru jūs vēlaties izveidot savienojumu.";
+"ENTER_SERVER_CREDS_HELP"="Ja nepieciešams serverim, ievadīt lietotājvārdu un paroli.";
+"USER_LABEL"="Lietotajs";
+"PASSWORD_LABEL"="Parole";
+
+"LOCAL_SERVER_REFRESH"="Atjaunot";
+"LOCAL_SERVER_LAST_UPDATE"="Pēdējo reizi atjaunināts %@";
+"LOCAL_SERVER_CONNECTION_FAILED_TITLE"="SERVERA SAVIENOJUMS NEIZDEVĀS";
+"LOCAL_SERVER_CONNECTION_FAILED_MESSAGE"="Lūdzu, pārbaudiet jūsu servera adresi un akreditācijas";
+
+"CLOUD_SERVICES"="Cloud Services";
+"LOGIN"="Login";
+"LOGGED_IN"="Logged in";
+
+"DROPBOX_DOWNLOAD"="Lejupielādēt failu?";
+"DROPBOX_DL_LONG"="Vai jūs vēlētos lejupielādēt \"%@\" uz jūsu %@? ";
+"DROPBOX_LOGIN"="Ielogoties";
+
+"GDRIVE_ERROR_FETCHING_FILES"="Radās kļūda ielādējot failus";
+"GDRIVE_DOWNLOAD_SUCCESSFUL"="Jūsu fails ir veiksmīgi lejupielādēts";
+"GDRIVE_DOWNLOAD_SUCCESSFUL_TITLE"="IZDEVĀS";
+"GDRIVE_ERROR_DOWNLOADING_FILE"="Radās kļūda kamēr lejupielādējot";
+"GDRIVE_ERROR_DOWNLOADING_FILE_TITLE"="KĻŪDA";
+
+"DISK_FULL"="Storage limit reached";
+"DISK_FULL_FORMAT"="%@ cannot be stored on your %@, because you don't have enough free space left.";
+
+"NUM_OF_FILES"="%i faili";
+"ONE_FILE"="1 fails";
+"NO_FILES"="Nav atbalstītu failu";
+"DOWNLOADING"="Lejupielādē...";
+"REMAINING_TIME"= "Atlikušais laiks: %@";
+"ENTER_PASSCODE"="Ievadiet piekļuves kodu";
+"REENTER_PASSCODE"="Vēlreiz ievadiet piekļuves kodu";
+"PASSCODE_SET"="Uzstādīt piekļuves kodu";
+"PASSCODE_CHANGE"="Mainīt piekļuves kodu";
+"PASSCODE_ENTER_OLD"="Ievadiet savu veco piekļuves kodu";
+"PASSCODE_ENTER_NEW"="Ievadiet jūsu jaunie piekļuves kodu";
+"PASSCODE_REENTER_NEW"="Vēlreiz ievadiet savu jauno piekļuves kodu";
+"PASSCODES_DID_NOT_MATCH"="Piekļuves kods nesakrita. Mēģiniet vēlreiz.";
+"PASSCODE_FAILED_1"="1 Neizdevās piekļuves koda mēģinājums";
+"PASSCODE_FAILED_FORMAT"="%d Neizdevušies piekļuves koda mēģinājumi";
+
+"Settings"="Iestatījumi"; // plain text key to keep compatibility with InAppSettingsKit's upstream
+
+"EMPTY_LIBRARY"="Tukša Mediju bibliotēka";
+"EMPTY_LIBRARY_LONG"="Atskaņošanai, jūs varat straumēt medijus no servera uz jūsu vietējā tīklā, no cloud vai sinhronizēto mediju uz jūsu ierīci izmantojot iTunes, WiFi augšupielādi vai Cloud pakalpojumus.";
+
+"PLAYBACK_SCRUB_HELP"="Virziet pirkstu uz leju, lai pielāgotu skrubera likmi.";
+"PLAYBACK_SCRUB_HIGH"="High-Speed Scrubbing";
+"PLAYBACK_SCRUB_HALF"="Half-Speed Scrubbing";
+"PLAYBACK_SCRUB_QUARTER"="Quarter-Speed Scrubbing";
+"PLAYBACK_SCRUB_FINE"="Fine Scrubbing";
+"PLAYBACK_POSITION"="Atskaņošana nostāja";
+"VIDEO_FILTER"="Video filtri";
+"VIDEO_FILTER_RESET_BUTTON"="Atiestatīt Video filtrus";
+"VIDEO_ASPECT_RATIO_BUTTON"="Pārslēgt Video Proporcijas";
+"PLAY_PAUSE_BUTTON"="Atskaņot vai pauzēt pašreizējo atskaņošanu";
+"BWD_BUTTON"="Pārlēkt atpakaļ";
+"FWD_BUTTON"="Pārlēkt uz priekšu";
+"PLAY_BUTTON"="Play";
+"PAUSE_BUTTON"="Pause";
+
+"VERSION_FORMAT"="Versija: %@";
+"BASED_ON_FORMAT"="Pamatojoties uz: <br />%@";
+
+"NEW"="JAUNS";
+
+"BUG_REPORT_TITLE"="Paziņo par kļūdu";
+"BUG_REPORT_MESSAGE"="Vai jūs vēlētos izveidot kļūdas ziņojumu?";
+"BUG_REPORT_BUTTON"="Atvert Safari";
+
+"VO_VIDEOPLAYER_TITLE"="Video Lasītājs";
+"VO_VIDEOPLAYER_DOUBLETAP"="Divreiz pieskarieties, lai parādītu vai paslēptu atskaņošanas kontroli";
+
+"FIRST_STEPS_WELCOME"="Sirsnīgi sagaidīti";
+"FIRST_STEPS_WELCOME_DETAIL"="Pirmie soļi, lai Sync un Atskaņot jūsu multimēdiju.";
+"FIRST_STEPS_ITUNES"="iTunes Failu Sync";
+"FIRST_STEPS_ITUNES_DETAILS"="Pievienojiet jūsu pie jūsu Mac vai PC izmantojot kabeli. Atveriet iTunes. Izvēlieties savu %@. Pārslēdziet uz \"Apps\" cilni, skrullējiet uz leju un meklējiet VLC. Transfer jūsu failus.";
+"FIRST_STEPS_WIFI_CONNECT_DETAILS"="Savienojiet savu %@ pie tā paša tīkla, kas jūsu Mac vai PC.";
+"FIRST_STEPS_WIFI_UPLOAD_DETAILS"="Pārslēdziet slēdzi sānjoslā, ievadiet URL pie interneta pārlūkaun augšupielādējiet jūsu failus.";
+"FIRST_STEPS_CLOUDS"="Mākoņi";
+"FIRST_STEPS_CLOUD_UPLOAD_DETAILS"="Augšupielādēt jūsu mediju uz Google Drive vai Dropbox.";
+"FIRST_STEPS_CLOUD_ACCESS_DETAILS"="Atveriet sānu joslu, lai izvēlētos savu Cloud pakalpojumu sniedzēju un piekļūtu jūsu mēdijiem, lai lejupielādētu vai straumētu.";
+"FIRST_STEPS_PLAYBACK"="Atskaņošana";
+"FIRST_STEPS_FLOSS"="VLC for iOS is free and open source software developed by volunteers.\nWe hope you'll love it.";
+
+"FIRST_STEPS_TIME"="Laiks";
+"FIRST_STEPS_ASPECT"="Proporcijas";
+"FIRST_STEPS_SPEED"="Ātrums";
+"FIRST_STEPS_REPEAT"="Atkārtot";
+"FIRST_STEPS_SUBTITLES"="Subtitru celiņi";
+"FIRST_STEPS_AUDIO"="audio ieraksti";
+"FIRST_STEPS_POSITION"="Pozīcija";
+
+"PLEX_WATCHED"="Mark as watched";
+"PLEX_UNWATCHED"="Mark as un-watched";
+"PLEX_ERROR_MARK"="Error marking media";
+"PLEX_CONNECT_TO_SERVER"="Connect to Plex Media Server";
+"PLEX_CHECK_ACCOUNT"="Check your Plex account in settings";
+"PLEX_ERROR_ACCOUNT"="Plex login Error";
+
+"UNAUTHORIZED"="Unauthorized";
+
+"SERVER"="Server";
+"SERVER_PORT"="Port";
+"BOOKMARK"="Bookmark";
+"INVALID_IP_PORT"="Please enter a valid IP address and port";
+
+"WEBINTF_TITLE"="Sharing via WiFi";
+"WEBINTF_DROPFILES"="Drop Files";
+"WEBINTF_DROPFILES_LONG"="Drop files in the window to add them to your %@.<br>Or click on the \"+\" button to use the file picker dialog.";
+"WEBINTF_DOWNLOADFILES"="Download Files";
+"WEBINTF_DOWNLOADFILES_LONG"="Just click the file you want to download from your %@.";
+
+"CLOUD_DRIVES"="Other Cloud Drives";
+
+"NOW_PLAYING"="Now Playing";
+"PLAY_NOW"="Play Now";
+"PLAYING"="Playing";
+"PAUSED"="Paused";
+"DETAIL"="Detail";
+
+"VOLUME"="Volume";
+"DURATION"="Duration";
+"TITLE"="Title";
+
+// accessibility labels for the playlist
+"OBJECT_TYPE_SHOW"="Show";
+"OBJECT_TYPE_SHOW_EPISODE"="Show episode";
+"OBJECT_TYPE_LABEL"="Folder";
+"OBJECT_TYPE_ALBUM"="Album";
+"OBJECT_TYPE_ALBUM_TRACK"="Album track";
+"OBJECT_TYPE_FILE"="File";
+"OBJECT_TYPE_FILE_AUDIO"="Audio file";
+
+"LONGPRESS_TO_STOP"="Long-press to stop playback.";

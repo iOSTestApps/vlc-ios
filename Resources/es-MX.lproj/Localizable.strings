@@ -1,0 +1,251 @@
+"CHOOSE_AUDIO_TRACK"="Elegir pista de audio";
+"CHOOSE_SUBTITLE_TRACK"="Elegir pista de subtítulos";
+"OPEN_TRACK_PANEL"="Abrir selección de pista";
+"CHOOSE_TITLE"="Choose Title";
+"CHOOSE_CHAPTER"="Choose Chapter";
+"MINIMIZE_PLAYBACK_VIEW"="Minimize playback";
+"FULLSCREEN_PLAYBACK"="Play in fullscreen";
+
+"PLAYING_EXTERNALLY_TITLE"="Televisión conectada";
+"PLAYING_EXTERNALLY_DESC"="Este vídeo se está reproduciendo en la televisión";
+
+"VFILTER_HUE"="Tono";
+"VFILTER_CONTRAST"="Contraste";
+"VFILTER_BRIGHTNESS"="Brillo";
+"VFILTER_SATURATION"="Saturación";
+"VFILTER_GAMMA"="Gama";
+
+"BUTTON_EQUALIZER"="Equalizer";
+"PREAMP"="Preamp";
+"DB_FORMAT"="%i dB";
+"CHOOSE_EQUALIZER_PROFILES"="Choose Equalizer Profile";
+
+"PLAYBACK_FAILED"="Reproducción fallida";
+"AR_CHANGED"="Proporción de aspecto: %@";
+"DEFAULT"="Predeterminado";
+"FILL_TO_SCREEN"="Ajustar a la pantalla";
+"DEVICE_TOOSLOW_TITLE"="Dispositivo demasiado lento";
+"DEVICE_TOOSLOW"="Su %@ es probablemente demasiado lento para reproducir «%@». ¿Abrir de todas maneras?";
+"PLAYBACK_SPEED"="Velocidad de reproducción";
+"SPU_DELAY"="Retraso de los subtítulos";
+"AUDIO_DELAY"="Retraso de audio";
+"BUTTON_SLEEP_TIMER"="Sleep Timer";
+
+"BUTTON_EDIT"="Editar";
+"BUTTON_DONE"="Listo";
+"BUTTON_OPEN"="Abrir";
+"BUTTON_CANCEL"="Cancelar";
+"BUTTON_SAVE"="Guardar";
+"BUTTON_DOWNLOAD"="Descargar";
+"BUTTON_DELETE"="Eliminar";
+"BUTTON_OK"="OK";
+"BUTTON_NEXT"="Siguiente";
+"BUTTON_CONTRIBUTE"="Contribuir";
+"BUTTON_BACK"="Atrás";
+"BUTTON_CONNECT"="Conectar";
+"BUTTON_REPEAT"="Repetir";
+"BUTTON_RENAME"="Renombrar";
+"BUTTON_LEARN_MORE"="Saber Más";
+"BUTTON_LOGOUT"="Cerrar sesión";
+"PRIVATE_PLAYBACK_TOGGLE"="Reproducción privada";
+"SCAN_SUBTITLE_TOGGLE"="Analizar en buscar de Subtitulos (solo http)";
+
+"UPGRADING_LIBRARY"="Actualizando biblioteca multimedia";
+"UNTITLED_SHOW"="Show sin título";
+"UNKNOWN"="Desconocido";
+
+"OPEN_NETWORK"="Abrir Emision de Red";
+"NETWORK_TITLE"="Emisión de Red";
+"OPEN_NETWORK_HELP"="Introduzca cualquier dirección HTTP, RTSP, RTMP, MMS, FTP o UDP/RTP para abrir la emisión directamente.";
+"ABOUT_APP"="Acerca de VLC para iOS";
+"OPEN_VLC_MENU"="Abrir el menú lateral";
+"HTTP_UPLOAD_SERVER_OFF"="Servidor inactivo";
+"HTTP_UPLOAD_NO_CONNECTIVITY"="Ninguna conexión WiFi activa";
+"OPEN_STREAM_OR_DOWNLOAD"="¿Gustas descargar o reproducir esta URL?";
+"SELECT_RESOURCE_TO_PLAY"="Seleccione el medio a reproducir:";
+"SELECT_RESOURCE_TO_DOWNLOAD"="Seleccione el medio para descargar:";
+"SHARED_VLC_IOS_LIBRARY"="Shared VLC for iOS Library";
+"SAP_STREAMS"="Network Streams (SAP)";
+
+"HTTP_DOWNLOAD_FAILED"="Fallo la descarga con HTTP código %i";
+"HTTP_FILE_CREATION_FAILED"="Fallo la Creación del Archivo ";
+"HTTP_DOWNLOAD_CANCELLED"="\nDescarga cancelada por el usuario";
+
+"DOWNLOAD_FROM_HTTP_HELP"="Introduzca una dirección para descargar el archivo a su %@.";
+"DOWNLOAD_FROM_HTTP"="Descargas";
+"ERROR_NUMBER"="Ha ocurrido el error %i";
+"DOWNLOAD_FAILED"="La descarga falló";
+"FILE_NOT_SUPPORTED"="Formato de archivo no soportado";
+"FILE_NOT_SUPPORTED_LONG"="El formato de archivo usado por %@ no está soportado por esta versión de VLC para iOS.";
+"SCHEME_NOT_SUPPORTED"="Esquema de dirección no soportado";
+"SCHEME_NOT_SUPPORTED_LONG"="El esquema de dirección (%@) no es soportado. Por favor usa una dirección que comience con HTTP, HTTPS o FTP.";
+"LIBRARY_ALL_FILES"="Todos los archivos";
+"LIBRARY_MUSIC"="Álbumes de música";
+"LIBRARY_SERIES"="Espectáculos de TV ";
+"LIBRARY_TRACKS"="%i pistas";
+"LIBRARY_SINGLE_TRACK"="%i pista";
+"LIBRARY_EPISODES"="%i capítulos, %i sin ver";
+"LIBRARY_SINGLE_EPISODE"="%i capítulo, %i sin ver";
+"LIBRARY_TRACK_N"="Pista %i";
+"LIBRARY_MINUTES_LEFT"="quedan %@m";
+"RENAME_MEDIA_TO"="Da nuevo nombre para %@";
+
+"FOLDER_EMPTY"="Vaciar Carpeta";
+"FOLDER_EMPTY_LONG"="Para agregar archivos pulsa Editar, elige los archivos que quieres, clic en el botón-carpeta y selecciona esta carpeta.";
+"FOLDER_INVALID_TYPE_TITLE"="Tipos de archivo inválidos";
+"FOLDER_INVALID_TYPE_MESSAGE"="Solo puedes tomar dos archivos para formar una carpeta o agregar un solo archivo a una carpeta existente.";
+"FOLDER_CHOOSE_NAME_TITLE"="Nueva carpeta.";
+"FOLDER_CHOOSE_NAME_MESSAGE"="Dale un título a tu carpeta";
+"FOLDER_NAME_PLACEHOLDER"="Titulo de Carpeta";
+"FOLDER_NAME_DUPLICATE_TITLE"="El título existe";
+"FOLDER_NAME_DUPLICATE_MESSAGE"="Por favor elige un título distinto";
+"SELECT_FOLDER"="Selecciona una Carpeta";
+
+"SHARING_ACTION_SHEET_TITLE_CHOOSE_FILE"="Seleccionar un archivo para abrir:";
+"SHARING_ACTIVITY_OPEN_IN_TITLE"="Abrir en...";
+"SHARING_ERROR_NO_FILES"="No se encontró ningún archivo para compartir";
+"SHARING_ERROR_NO_APPLICATIONS"="No se encontró ninguna aplicación para abrir este tipo de archivo";
+"SHARING_SUCCESS_CAMERA_ROLL"="El archivo fue guardado exitosamente en Camera Roll";
+
+"SECTION_HEADER_LIBRARY"="Biblioteca multimedia";
+"SECTION_HEADER_NETWORK"="Red";
+
+"LOCAL_NETWORK"="Red local";
+"CONNECT_TO_SERVER"="Conectar al servidor";
+"ENTER_SERVER_ADDRESS_HELP"="Introduzca la IP o el nombre del servidor al que quiere conectarte.";
+"ENTER_SERVER_CREDS_HELP"="Si es requerido por el servidor, introduzca el nombre de usuario y contraseña.";
+"USER_LABEL"="Usuario";
+"PASSWORD_LABEL"="Contraseña";
+
+"LOCAL_SERVER_REFRESH"="Actualizar";
+"LOCAL_SERVER_LAST_UPDATE"="Ultima Actualización %@";
+"LOCAL_SERVER_CONNECTION_FAILED_TITLE"="FALLÓ LA CONEXIÓN CON SERVIDOR";
+"LOCAL_SERVER_CONNECTION_FAILED_MESSAGE"="Por favor revisa tu dirección de servidor y credenciales.";
+
+"CLOUD_SERVICES"="Servicios Cloud";
+"LOGIN"="Iniciar sesión";
+"LOGGED_IN"="Conectado";
+
+"DROPBOX_DOWNLOAD"="¿Descargar archivo?";
+"DROPBOX_DL_LONG"="¿Quiere descargar «%@» en su %@?";
+"DROPBOX_LOGIN"="Iniciar sesión";
+
+"GDRIVE_ERROR_FETCHING_FILES"="Error al buscar los archivos";
+"GDRIVE_DOWNLOAD_SUCCESSFUL"="Su archivo se ha descargado correctamente";
+"GDRIVE_DOWNLOAD_SUCCESSFUL_TITLE"="EXITO";
+"GDRIVE_ERROR_DOWNLOADING_FILE"="Ha ocurrido un error mientras se esta descargando";
+"GDRIVE_ERROR_DOWNLOADING_FILE_TITLE"="ERROR";
+
+"DISK_FULL"="Límite de almacenamiento alcanzado";
+"DISK_FULL_FORMAT"="%@ no puede ser almacenado en tu %@, porque no tienes suficiente espacio de almacenamiento disponible.";
+
+"NUM_OF_FILES"="%i archivos";
+"ONE_FILE"="1 archivo";
+"NO_FILES"="No hay archivos soportados";
+"DOWNLOADING"="Descargando...";
+"REMAINING_TIME"= "Tiempo restante: %@";
+"ENTER_PASSCODE"="Escriba su contraseña";
+"REENTER_PASSCODE"="Reescriba su contraseña";
+"PASSCODE_SET"="Establecer contraseña";
+"PASSCODE_CHANGE"="Cambiar contraseña";
+"PASSCODE_ENTER_OLD"="Escriba su antigua contraseña";
+"PASSCODE_ENTER_NEW"="Escriba su nueva contraseña";
+"PASSCODE_REENTER_NEW"="Rescriba su nueva contraseña";
+"PASSCODES_DID_NOT_MATCH"="Las contraseñas no coinciden. Pruebe de nuevo. ";
+"PASSCODE_FAILED_1"="1 intento fallido";
+"PASSCODE_FAILED_FORMAT"="%d intentos fallidos";
+
+"Settings"="Preferencias"; // plain text key to keep compatibility with InAppSettingsKit's upstream
+
+"EMPTY_LIBRARY"="Biblioteca multimedia vacía";
+"EMPTY_LIBRARY_LONG"="Para reproducir, puedes emitir medios desde un servidor en tu red local, desde la nube o sincronizar medios a tu aparato usando iTunes, carga WiFi o servicios de nube.";
+
+"PLAYBACK_SCRUB_HELP"="Deslice el dedo hacia abajo para ajustar la velocidad de «scrubbing».";
+"PLAYBACK_SCRUB_HIGH"="Velocidad alta";
+"PLAYBACK_SCRUB_HALF"="Velocidad media";
+"PLAYBACK_SCRUB_QUARTER"="Velocidad lenta";
+"PLAYBACK_SCRUB_FINE"="Velocidad de precisión";
+"PLAYBACK_POSITION"="Posición de reproducción";
+"VIDEO_FILTER"="Filtros de vídeo";
+"VIDEO_FILTER_RESET_BUTTON"="Restablecer filtros de vídeo";
+"VIDEO_ASPECT_RATIO_BUTTON"="Cambiar relación de aspecto del vídeo";
+"PLAY_PAUSE_BUTTON"="Reproducir o pausar reproducción actual";
+"BWD_BUTTON"="Retroceder";
+"FWD_BUTTON"="Avanzar";
+"PLAY_BUTTON"="Play";
+"PAUSE_BUTTON"="Pause";
+
+"VERSION_FORMAT"="Versión: %@";
+"BASED_ON_FORMAT"="Basado en:<br />%@";
+
+"NEW"="NUEVO";
+
+"BUG_REPORT_TITLE"="Informar de un error";
+"BUG_REPORT_MESSAGE"="¿Desea crear un informe de fallo?";
+"BUG_REPORT_BUTTON"="Abrir Safari";
+
+"VO_VIDEOPLAYER_TITLE"="Reproductor de vídeo";
+"VO_VIDEOPLAYER_DOUBLETAP"="Presione dos veces la pantalla para mostrar u ocultar los controles de reproducción";
+
+"FIRST_STEPS_WELCOME"="Bienvenido";
+"FIRST_STEPS_WELCOME_DETAIL"="Primeros pasos para Sincronizar y Reproducir Tus Medios.";
+"FIRST_STEPS_ITUNES"="Sincronización de archivos iTunes";
+"FIRST_STEPS_ITUNES_DETAILS"="Conecta tu %@ a tu Mac o PC usando el cable.\nAbre iTunes.\nSelecciona tu %@.\nCambiare a la pestaña \"Apps\", baja y busca VLC.\nTransfiere tus archivos.";
+"FIRST_STEPS_WIFI_CONNECT_DETAILS"="Conecta tu %@ a la misma red que tu Mac o PC.";
+"FIRST_STEPS_WIFI_UPLOAD_DETAILS"="Activa el switch en la barra lateral, mete la URL en el navegador y carga tus archivos.";
+"FIRST_STEPS_CLOUDS"="Nubes";
+"FIRST_STEPS_CLOUD_UPLOAD_DETAILS"="Carga tus medios a Google Drive o Dropbox.";
+"FIRST_STEPS_CLOUD_ACCESS_DETAILS"="Abre la barra lateral para seleccionar tu proveedor de Nube y accede a tus medios para descarga o emisión.";
+"FIRST_STEPS_PLAYBACK"="Reproducción";
+"FIRST_STEPS_FLOSS"="VLC para iOS es software libre y open source, desarrollado por voluntarios.\nEsperamos que lo ames.";
+
+"FIRST_STEPS_TIME"="Tiempo";
+"FIRST_STEPS_ASPECT"="Proporción de aspecto";
+"FIRST_STEPS_SPEED"="Velocidad";
+"FIRST_STEPS_REPEAT"="Repetir";
+"FIRST_STEPS_SUBTITLES"="Pista de Subtítulos";
+"FIRST_STEPS_AUDIO"="Pista de Audio";
+"FIRST_STEPS_POSITION"="Posición";
+
+"PLEX_WATCHED"="Marcar como visto";
+"PLEX_UNWATCHED"="Marcar como no visto";
+"PLEX_ERROR_MARK"="Error al marcar multimedia";
+"PLEX_CONNECT_TO_SERVER"="Connect to Plex Media Server";
+"PLEX_CHECK_ACCOUNT"="Check your Plex account in settings";
+"PLEX_ERROR_ACCOUNT"="Plex login Error";
+
+"UNAUTHORIZED"="Unauthorized";
+
+"SERVER"="Server";
+"SERVER_PORT"="Port";
+"BOOKMARK"="Bookmark";
+"INVALID_IP_PORT"="Please enter a valid IP address and port";
+
+"WEBINTF_TITLE"="Compartiendo vía WiFi";
+"WEBINTF_DROPFILES"="Descartar archivos";
+"WEBINTF_DROPFILES_LONG"="Descarta archivos en la ventana para agregar a tu %@.\nO haz clic en el botón \"+\" para utilizar el cuadro de diálogo de selección de archivos.";
+"WEBINTF_DOWNLOADFILES"="Descargar Archivos";
+"WEBINTF_DOWNLOADFILES_LONG"="Solo haz clic en el archivo que desees bajar de tu %@";
+
+"CLOUD_DRIVES"="Otras unidades Cloud";
+
+"NOW_PLAYING"="Now Playing";
+"PLAY_NOW"="Play Now";
+"PLAYING"="Playing";
+"PAUSED"="Paused";
+"DETAIL"="Detail";
+
+"VOLUME"="Volume";
+"DURATION"="Duration";
+"TITLE"="Title";
+
+// accessibility labels for the playlist
+"OBJECT_TYPE_SHOW"="Show";
+"OBJECT_TYPE_SHOW_EPISODE"="Show episode";
+"OBJECT_TYPE_LABEL"="Folder";
+"OBJECT_TYPE_ALBUM"="Album";
+"OBJECT_TYPE_ALBUM_TRACK"="Album track";
+"OBJECT_TYPE_FILE"="File";
+"OBJECT_TYPE_FILE_AUDIO"="Audio file";
+
+"LONGPRESS_TO_STOP"="Long-press to stop playback.";
